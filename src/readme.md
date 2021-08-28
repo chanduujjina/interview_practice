@@ -38,6 +38,8 @@ what are the ways to violate singleton design pattern?
 divya branch is created 
 divya_branch
 
+i will start practicing from today
+
 
 
 
