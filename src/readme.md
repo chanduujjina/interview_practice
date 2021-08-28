@@ -35,6 +35,9 @@ how to manage if you have mutable refrence in immutable class?
 
 what are the ways to violate singleton design pattern?
 
+divya branch is created 
+divya_branch
+
 
 
 
